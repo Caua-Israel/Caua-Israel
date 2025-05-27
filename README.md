@@ -16,7 +16,7 @@
  <br/>
  
  <a href="https://github.com/Caua-Israel" title="Perfil do Cauã-Israel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=021-Israel&theme=dracula&show_icons=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caua-Israel&theme=dracula&show_icons=true" />
  <a href="https://github.com/Caua-Israel" title="Perfil do Cauã-Israel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caua-Israel&theme=dracula&show_icons=true" />
  </a>
